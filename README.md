@@ -49,6 +49,7 @@ The following were useful resources that were valuable in the course of this bui
 - FreeCampCode Media query and responsiveness. It was clear and concise and would also recommend it as a teaching resource going forward.
 - Youtube Vides by  "easy Tutorials"
 - w3schools.com
+- Bootstrap.com
 
 ## Acknowledgments
 
