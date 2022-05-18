@@ -159,7 +159,7 @@ form.addEventListener('submit', function (e) {
 
     // submit to the server if the form is valid
     if (isFormValid) {
-        alert('succeful');
+        alert('successful');
     } else {
         alert('Please check for errors and try again');
     }
